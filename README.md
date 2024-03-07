@@ -21,7 +21,7 @@
 
 ---
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![ "Code is like humor. When you have to explain it, it’s bad.” ](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=OKELLOH1&icon=2&color=3)](https://visitcount.itsvg.in)
